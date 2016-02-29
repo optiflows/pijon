@@ -1,1 +1,1 @@
-from pijon.pijon import Pijon
+from pijon.pijon import *
